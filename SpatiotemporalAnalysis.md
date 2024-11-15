@@ -1,9 +1,6 @@
----
-title: "Spatiotemporal analysis - Indiana prescription"
-author: "Paula Jaimes"
-date: "2024-05-23"
-output: html_document
----
+
+# Spatiotemporal analysis - Indiana prescription
+
 
 This script contains all the necessary steps for the spatiotemporal analysis for the paper called "A spatiotemporal analysis of opioid prescriptions in Indiana from 2015 to 2019".
 
