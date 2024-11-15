@@ -6,21 +6,18 @@ This repository contains the R Markdown for the demographic-based and the spatio
 The following libraries must be installed. 
 
 ```
-library(rafalib)
 library(dplyr)
-library(stringr)
-library(ggplot2)
-library(gsubfn)
-library(proto)
-library(tidyverse)
-library(nortest)
 library(data.table)
+library(tableone)
+library(chisq.posthoc.test)
+library(tidycensus)
+library(readr)
+library(ggplot2)
+library(tidyr)
 library(sf)
 library(sfdep)
 library(spdep)
-library(tidyr)
 library(sp)
-library(tidycensus)
 library(ggpubr)
 library(rgeoda)
 library(gridExtra)
@@ -34,7 +31,7 @@ library(tmap)
 Data used in this project is not available for public access. 
 
 ### How to use it
-The first R markdown (Pairedt-test_AgeAndGender) contains the code for all demographic estimations and statistical analysis by demographic groups. 
+The first R markdown (StatisticalTests_AgeAndGender) contains the code for all demographic estimations and statistical analysis by demographic groups. 
 
 The second R markdown (SpatiotemporalAnalysis) comprises the code to generate the necessary shapefiles and proportions of individuals receiving an opioid prescription by 3-digit ZIP code zones, and the steps to calculate the Global and Local's Moran I in order to identify the spatially clustered zones.   
 
