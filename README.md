@@ -31,7 +31,7 @@ library(tmap)
 Data used in this project is not available for public access. 
 
 ### How to use it
-The first R markdown (Pairedt-test_AgeAndGender) contains the code for all demographic estimations and statistical analysis by demographic groups. 
+The first R markdown (StatisticalTests_AgeAndGender) contains the code for all demographic estimations and statistical analysis by demographic groups. 
 
 The second R markdown (SpatiotemporalAnalysis) comprises the code to generate the necessary shapefiles and proportions of individuals receiving an opioid prescription by 3-digit ZIP code zones, and the steps to calculate the Global and Local's Moran I in order to identify the spatially clustered zones.   
 
