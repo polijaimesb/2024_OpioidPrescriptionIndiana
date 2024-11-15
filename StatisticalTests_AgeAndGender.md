@@ -1,9 +1,4 @@
----
-title: "Paired t-test - Gender and Age"
-author: "Paula Jaimes"
-date: "2024-05-23"
-output: html_document
----
+# Statistical tests 
 
 The script contains all the necessary steps for the statistical tests between demographic group estimations from Indiana Medicaid reimbursement claims data from individuals receiving an opioid prescription, from 2015 to 2019. This script is part of the methodology for the paper called "A spatiotemporal analysis of opioid prescriptions in Indiana from 2015 to 2019".
 
