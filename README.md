@@ -35,6 +35,7 @@ The first R markdown (StatisticalTests_AgeAndGender) contains the code for all d
 
 The second R markdown (SpatiotemporalAnalysis) comprises the code to generate the necessary shapefiles and proportions of individuals receiving an opioid prescription by 3-digit ZIP code zones, and the steps to calculate the Global and Local's Moran I in order to identify the spatially clustered zones.   
 
+The third R markdown (MAUP_impact) comprises the code to evaluate the MAUP at the county-level.    
 ### Publication 
 This code supports the analysis intended to be published in a paper in the next couple of months.  
 
