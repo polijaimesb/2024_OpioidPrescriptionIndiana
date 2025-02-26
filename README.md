@@ -25,6 +25,12 @@ library(grid)
 library(cowplot)
 library(gridGraphics)
 library(tmap)
+library(readxl)
+library(purrr)
+library(tseries)
+library(spatialreg)
+library(lmtest)
+
 
 ```
 ### Authorization 
