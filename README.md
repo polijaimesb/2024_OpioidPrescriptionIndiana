@@ -1,5 +1,5 @@
 
-### OpioidPrescriptionIndiana
+### Spatiotemporal analysis of opioid prescription in Indiana
 This repository contains the R Markdown for the demographic-based and the spatiotemporal analysis in Indiana Medicaid patients who received at least one opioid prescription between 2015 to 2019. 
 
 ### Prerequisites 
