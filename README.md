@@ -43,7 +43,8 @@ The second R markdown (SpatiotemporalAnalysis) comprises the code to generate th
 
 The third R markdown (MAUP_impact) comprises the code to evaluate the MAUP at the county-level.    
 ### Publication 
-This code supports the analysis intended to be published in a paper in the next couple of months.  
+This code supports the analysis of the paper "A spatiotemporal analysis of opioid prescriptions in Indiana from 2015 to 2019", DOI: 10.1186/s13011-025-00664-8
+.  
 
 
 
